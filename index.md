@@ -8,6 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 https://DriveTestAnalytics.github.io/images/img/DriveTest-Logo-Ont-Logo-2019.png
 
 https://DriveTestAnalytics.github.io/images/img/DriveTest-Logo-French-Ont-Logo-2019.png
+
+[French](https://DriveTestAnalytics.github.io/images/img/DriveTest-Logo-French-Ont-Logo-2019.png)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
