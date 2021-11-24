@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/DriveTestAnalytics/images/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<img src="images/img/DriveTest-Logo-Ont-Logo-2019.png" alt="hi" class="inline"/>
+<img src="img/DriveTest-Logo-Ont-Logo-2019.png" alt="hi" class="inline"/>
 
 ### Markdown
 
