@@ -6,6 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <img src="img/DriveTest-Logo-Ont-Logo-2019.png" alt="hi" class="inline"/>
 https://DriveTestAnalytics.github.io/images/img/DriveTest-Logo-Ont-Logo-2019.png
+\n
 https://DriveTestAnalytics.github.io/images/img/DriveTest-Logo-French-Ont-Logo-2019.png
 ### Markdown
 
