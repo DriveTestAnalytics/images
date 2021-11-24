@@ -5,7 +5,8 @@ You can use the [editor on GitHub](https://github.com/DriveTestAnalytics/images/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 <img src="img/DriveTest-Logo-Ont-Logo-2019.png" alt="hi" class="inline"/>
-https://github.com/DriveTestAnalytics/images/English.html
+https://github.com/DriveTestAnalytics/images/English.md
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
